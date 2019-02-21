@@ -1,0 +1,36 @@
+{
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "files.exclude": {
+    "**/.AppldeDouble": true,
+    "**/Thumbs.db": true
+  },
+  "files.watcherExclude": {
+    "**/vendor/**": true
+  },
+  "workbench.colorTheme": "Visual Studio Light",
+  "html.format.endWithNewline": true,
+  "css.lint.boxModel": "warning",
+  "css.lint.idSelector": "warning",
+  "css.lint.importStatement": "error",
+  "css.lint.unknownVendorSpecificProperties": "warning",
+  "css.lint.zeroUnits": "warning",
+  "git.decorations.enabled": false,
+  "scss.lint.boxModel": "warning",
+  "scss.lint.idSelector": "warning",
+  "scss.lint.zeroUnits": "warning",
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true,
+  "php-cs-fixer.executablePath": "~/.vscode/php-cs-fixer",
+  "php-cs-fixer.lastDownload": 1550720983437,
+  "php-cs-fixer.rules": "@PSR2",
+  "php-cs-fixer.formatHtml": true,
+  "php-cs-fixer.onsave": true,
+  "gitlens.blame.separateLines": false
+}
+
