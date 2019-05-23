@@ -1,15 +1,14 @@
-# macOS
 *.DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon
 ICon
-
-
-# Thumbnails
 ._*
+.vscode
+.php-version
 
+# environment
+.env
+.env.test
 
 # Logs
 *.log
@@ -17,13 +16,13 @@ ICon
 # Coverage directory used by tools like istanbul
 coverage
 
-# Dependency directory
+# Dependency
 node_modules
 .nyc_output
-public
-
+vendor
 
 # Distribution
+public
 dist
 !dist/.gitkeep
 
